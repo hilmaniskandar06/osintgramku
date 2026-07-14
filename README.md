@@ -8,3 +8,5 @@ buka folder proyek yang sudah di clon atau download, buka file run.bat ctrl+klik
 done!!
 
 cara akhiri program: tutup tab http://127.0.0.1:5000, buka terminal yang berjalan klik ctrl+c tekan Y dan enter
+
+<img width="1731" height="1220" alt="image" src="https://github.com/user-attachments/assets/a8bdf682-be1d-4b76-a58b-2ed2d70edf94" />
